@@ -15,6 +15,9 @@ public class Hola {
 		System.out.println("¿Qué tal estás?");
 		
 		System.out.println("Cambios aquí chulillo");
+		System.out.println("Cambios aquí chulillo");
+		System.out.println("Cambios aquí chulillo");
+		System.out.println("Cambios aquí chulillo");
 	}
 
 		
